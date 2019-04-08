@@ -39,3 +39,9 @@ Type in a name of a **city** or a **state** and the results will start rolling a
 **takeawawy** - `fetch()` and `promises` from JavaScript.
 
 ![Screenshot](Images/06.png)
+
+### 07 - Array Cardio Part two
+Implemented `find()`, `some()`, `every()` and `findIndex()` methods to play with arrays.     
+**takeawawy** - All the above mentioned functions.
+
+![Screenshot](Images/07.png)
