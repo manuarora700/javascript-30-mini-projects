@@ -45,3 +45,11 @@ Implemented `find()`, `some()`, `every()` and `findIndex()` methods to play with
 **takeaway** - All the above mentioned functions.
 
 ![Screenshot](Images/07.png)
+
+![Screenshot](Images/06.png)
+
+### 08 - Fun with HTML5 Canvas
+Draw on the Canvas element by holding on the mouse pointer. The colors vary along with the width. Give it a try. :p        
+**takeaway** - `draw()` method is helpful for drawing onto the canvas. `decision` flag helps to reduce and increase width of the `stroke` element.
+
+![Screenshot](Images/07.gif)
