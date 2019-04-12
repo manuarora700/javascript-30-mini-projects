@@ -1,6 +1,9 @@
 # JavaScript 30
 
->int main() {
->	printf("30 mini projects in JavaScript.")
->}
+```
+int main() {
+	printf("30 JavaScript projects without any external libraries.");
+}
+```
+>30 Javascript projects without any external libraries.
 
