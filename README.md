@@ -36,12 +36,12 @@ CSS flexbox is awesome. here, click on an image and watch the text roll in and t
 
 ### 06 - AJAX Type head
 Type in a name of a **city** or a **state** and the results will start rolling as soon as you type. Also there is a feature to highlight the text which you're looking for.   
-**takeawawy** - `fetch()` and `promises` from JavaScript.
+**takeaway** - `fetch()` and `promises` from JavaScript.
 
 ![Screenshot](Images/06.png)
 
 ### 07 - Array Cardio Part two
 Implemented `find()`, `some()`, `every()` and `findIndex()` methods to play with arrays.     
-**takeawawy** - All the above mentioned functions.
+**takeaway** - All the above mentioned functions.
 
 ![Screenshot](Images/07.png)
