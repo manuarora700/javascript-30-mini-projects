@@ -51,3 +51,9 @@ Draw on the Canvas element by holding on the mouse pointer. The colors vary alon
 **takeaway** - `draw()` method is helpful for drawing onto the canvas. `decision` flag helps to reduce and increase width of the `stroke` element.
 
 ![Screenshot](Images/08.gif)
+
+### 09 - Dev Tools Fun
+Trying to build a strong grip on various `console` statements.             
+**takeaway** - All `console` Statements 
+
+![Screenshot](Images/09.png)
