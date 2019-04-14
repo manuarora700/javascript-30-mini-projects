@@ -57,3 +57,9 @@ Trying to build a strong grip on various `console` statements.
 **takeaway** - All `console` Statements 
 
 ![Screenshot](Images/09.png)
+
+### 10 - Hold Down Shift Key To Select Multiple Checkboxes
+Hold down the `shift` key on your keyboard and select another checkbox in the list. All the checkboxes in between will get checked automatically (Gmail feature).   
+**takeaway** - the `inBetween` flag is the most useful here. Also, the `handleCheckboxes` function is handy.   
+
+![Screenshot](Images/10.gif)
