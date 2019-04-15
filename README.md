@@ -63,3 +63,9 @@ Hold down the `shift` key on your keyboard and select another checkbox in the li
 **takeaway** - the `inBetween` flag is the most useful here. Also, the `handleCheckboxes` function is handy.   
 
 ![Screenshot](Images/10.gif)
+
+### 11 - Custom HTML5/CSS3/JS Video player
+A video player with features such as `play`, `pause`, `skip 10 seconds backwords`, `skip 25 seconds forward` and a `seek bar`. All this is implemented in `scripts.js` file with some custom css in `style.css` file.   
+**takeaway** - `addEventListener()` method plays a major role in binding DOM keys with functions. The respective functions control their respective functionalities. for example `scrub()` is responsible to adjust seek bar to the exact correct location.
+
+![Screenshot](Images/11.png);
