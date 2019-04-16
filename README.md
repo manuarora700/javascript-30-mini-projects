@@ -69,3 +69,11 @@ A video player with features such as `play`, `pause`, `skip 10 seconds backwords
 **takeaway** - `addEventListener()` method plays a major role in binding DOM keys with functions. The respective functions control their respective functionalities. for example `scrub()` is responsible to adjust seek bar to the exact correct location.
 
 ![Screenshot](Images/11.png)
+
+---
+
+### 12 - Key Sequence Detection
+Detects a specific keysequence when the user enters keystores onto the browser window. Key sequence is then mapped with the secret code and the output is generated, in this case, UNICORNS.     
+**takeaway** - The `cornify_add()` method adds unicorns. Basically we check for the `pressed` array and map it with `secretCode` array.
+
+![Screenshot](Images/12.png)
